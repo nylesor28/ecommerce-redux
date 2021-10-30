@@ -34,7 +34,7 @@ Live Site (https://nylesor28-ecommerce-redux.herokuapp.com/)
 
 ```
 ### Screen Print
-![Screen Print Ecommerce](/client/public\images/Screenshot_ecommerce_site.jpg)
+![Screen Print Ecommerce](/client/public/images/Screenshot_ecommerce_site.jpg)
 
 ## Contributors
 
